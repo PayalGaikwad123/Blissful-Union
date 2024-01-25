@@ -1,0 +1,61 @@
+.navbar {
+    background-color: rgb(255, 229, 206);
+
+}
+.img1{
+  width:100%;
+}
+.intro{
+    background-color:rgb(253, 238, 226);
+    text-align: center;
+    padding: 10px;
+    h1{
+        color: coral;
+    }
+}
+.navbar-nav{
+    margin-left: auto;
+}
+
+.weddingwork{
+    background-color:rgb(253, 238, 226);
+}
+footer {
+  background-color:  rgb(253, 238, 226);
+  color: #0a0808;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.footer-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.footer-section {
+  flex: 1;
+  min-width: 200px;
+  margin-bottom: 20px;
+}
+
+.footer-section h2 {
+  color: coral;
+
+.footer-section p {
+  margin: 5px 0;
+}
+
+.footer-section img {
+  width: 30px;
+  margin: 0 5px;
+}
+
+.footer-bottom {
+  background-color: rgb(253, 238, 226);
+  padding: 10px 0;
+}
+
+.footer-bottom p {
+  margin: 0;
+}
